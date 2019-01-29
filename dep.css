@@ -1,0 +1,247 @@
+.social li a{
+	display: inline-block;
+	text-decoration: none;
+}
+
+header{
+   
+    
+     left: 0;
+   
+    width: 100%;
+    
+    
+}
+
+ /* this is for logo design*/
+
+.logo{
+    margin-top: 18px; 
+    text-decoration: none;
+}
+.logo a{
+    text-decoration: none;
+    color: #444;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 600px;
+   
+    
+}
+.active1 a{
+
+  color: #44B4E1;
+}
+/* this is for logo design hover*/
+.logo a:hover{
+     text-decoration: none;
+}
+/* this is for navbar meenu*/
+.main-menu{
+    
+}
+.main-menu ul{}
+.main-menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+/* this is for menu list design*/
+.main-menu ul li a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 500px;
+    color: #444;
+    padding: 30px 5px;
+    display: block;
+}
+/* this is for menu list hover design*/
+.main-menu ul li a:hover{
+    text-decoration: none;
+    color: #44B4E1;
+   
+}
+
+.pic{
+    height: 600px;
+    background-image: url('img/7.jpeg');
+    background-size: cover;
+    
+}
+.pic h2{
+    font-size: 34px;
+    color: #44B4E1;
+    margin-top: 300px;
+    text-transform: uppercase;
+}
+.pic p{
+   
+    margin-top: 20px;
+    color: #B6B6B6;
+
+}
+
+.body{
+    margin-top: 90px;
+    margin-bottom: 70px;
+    
+}
+.nee{
+    height: 2px;
+    width: 50px;
+    margin-left: 50%;
+    background: #44B4E1;
+    margin-bottom: 90px;
+}
+.body3{
+    border: 1px solid #eee;
+
+    
+}
+.body-in h1{
+     margin-left: 25px;
+}
+.body-in p{
+    margin-left: 25px;
+    font-size: 25px;
+}
+.body-in span{
+    color: #44B4E1;
+}
+.body2{
+text-align: center;
+}
+.body2 h1{
+    font-size: 34px;
+    color: #44B4E1;
+
+}
+.img{
+     text-align: center;
+}
+.img img{
+
+    height: 450px;
+    width: 100%;
+}
+.write{
+    margin-top: 30px;
+    margin-left: 25px;
+
+}
+.weite p{
+    font-size: 15px;
+    color: #B6B6B6;
+}
+.write h3{
+    font-size: 20px;
+    color: #44B4E1;
+    padding: 20px;
+    letter-spacing: 1px;
+}
+
+.comment{
+    margin-bottom: 70px;
+}
+.commenti{
+    border: 1px solid #eee;
+    border-left: 3px solid #44B4E1;
+}
+.commenti p{
+    letter-spacing: 1px;
+    font-size: 18px;
+    padding: 20px 20px;
+    color: #B6B6B6;
+}
+
+
+
+.know{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+/*footer section*/
+
+footer{
+  background-color: #121921;
+    color: rgba(255,255,255,0.7);
+}
+.follow{
+      margin-top: 15px;
+    animation-delay: 1.1s;
+    -webkit-animation-delay: 1.1s;
+    -moz-animation-delay: 1.1s;
+}
+.follow ul li:first-child{
+  color: #fff;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-size: 0.8125rem;
+}
+.follow ul li{
+  display: inline-block;
+    margin-right: 10px;
+    font-size: 20px;
+    font-size: 1.25rem;
+    margin-bottom: 5px;
+}
+.follow ul li i{
+  font-size: 25px;
+      margin-right: 10px;
+    color: #fff;
+}
+.follow ul li a:hover{
+color: white;
+}
+.use h5{
+ margin-left: 45px;
+  margin-top: 10px;
+  font-size: 20px;
+  font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.use ul li
+{
+  padding: 10px;
+}
+.use ul li a{
+  text-decoration: none;
+  color: #fff;
+}
+.contact ul li a{
+  text-decoration: none;
+  color: #fff;
+  padding: 5px;
+}
+/*the box part */
+.hull{
+  margin-top: 30px;
+}
+.box1{
+  border: 2px solid #eee;
+ padding: 3px;
+ margin-bottom: 40px;
+}
+.box2{
+padding: 40px 20px;
+  border: 1px solid #eee;
+}
+.box2 h3{
+  margin-left: 3px;
+  font-size: 15px;
+  font-weight: 600px;
+}
+.box2 p{
+  margin-left: 3px;
+}
+.box2 a:hover{
+  text-decoration: none;
+}
+.box2 span{
+  margin-left: 3px;
+  color: #44B4E1;
+}
